@@ -74,7 +74,7 @@ section{
     background-position: center top;
     position: relative;
     display: grid;
-    background:url(../images/opt.png);
+    background:url('../images/opt.png');
     grid-template-columns: repeat(1, 1fr);
     align-items: center;
 }
@@ -177,7 +177,7 @@ margin-bottom: 1.4rem;
 .board{
     height: 70vh;
     width: 100%;
-    background: url(../images/announce.jpg);
+    background: url('../images/announce.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
